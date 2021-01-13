@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AirAsia"
+    }
+  },
+  "defaultProject": "AirAsia",
+  "cli": {
+    "analytics": "98106a91-388a-4945-8e8f-6c381986c9ea"
+  }
 }
